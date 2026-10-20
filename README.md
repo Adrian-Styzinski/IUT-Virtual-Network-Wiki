@@ -36,7 +36,7 @@ Linux system administration (Debian), static and dynamic network configuration (
 
 ## Reading
 
-The full wiki is in [`wiki_S2_03.md `](wiki_S2.03.md) (with a clickable table of contents), and its screenshots are in the `images/` folder.
+The full wiki is in [`wiki_S2.03.md `](wiki_S2.03.md) (with a clickable table of contents), and its screenshots are in the `images/` folder.
 
 ```bash
 git clone https://github.com/Chocopter/PU-Virtual-Network-Wiki
