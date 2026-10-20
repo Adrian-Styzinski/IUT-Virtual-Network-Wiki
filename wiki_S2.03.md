@@ -15,7 +15,7 @@
   - [2.2 Nextcloud](#22-nextcloud)
   - [2.3 OnlyOffice](#23-onlyoffice)
   - [2.4 Snap Package Manager](#24-snap-package-manager)
-  - [2.5 Plugins Overview](#25-plugins-overview)
+  - [2.5 Plugins Overview](#25-nextcloud-plugins-overview)
   - [2.6 Key Commands Reference](#26-key-commands-reference)
 - [3. Network Architecture](#3-network-architecture)
   - [3.1 Topology](#31-topology)
@@ -91,7 +91,7 @@ In this project, OnlyOffice is installed on the separate `office` machine to off
 
 We use Snap to install both Nextcloud and OnlyOffice because both have numerous dependencies that would make a manual 'apt'-based installation more complex and error-prone.
 
-### 2.5 NextcloudPlugins Overview
+### 2.5 Nextcloud Plugins Overview
 
 | Plugin | Purpose |
 |--------|---------|
@@ -1121,7 +1121,7 @@ Click **Save**.
 
 **Test:** Log in as `alice` (not as admin) and open a `.docx` file. The OnlyOffice editor should load inside the browser.
 
-![alt text](images/image141.jpg)
+![alt text](images/image141.png)
 
 ---
 
