@@ -39,6 +39,6 @@ Linux system administration (Debian), static and dynamic network configuration (
 The full wiki is in [`wiki_S2.03.md `](wiki_S2.03.md) (with a clickable table of contents), and its screenshots are in the `images/` folder.
 
 ```bash
-git clone https://github.com/Chocopter/IUT-Virtual-Network-Wiki
+git clone https://github.com/Adrian-Styzinski/IUT-Virtual-Network-Wiki
 cd IUT-Virtual-Network-Wiki
 ```
